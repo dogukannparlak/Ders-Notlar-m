@@ -37,27 +37,22 @@ Tüm notlar Markdown formatında yazılmıştır ve şunları içerir:
 - Görsel açıklamalar
 - Pratik uygulamalar
 
-## 📊 İstatistikler
-
-- **Toplam dosya sayısı**: 8
-- **Toplam içerik boyutu**: ~350KB
-- **Toplam satır sayısı**: ~13,000+
 
 ## 🔍 Hızlı Erişim
 
 ### Veritabanı
-- [SQL Detaylı Notlar](Database%20Managment%20System%20Note/SQL-Detayli-Ders-Notu%20.md)
-- [14. Hafta Alıştırmalar](Database%20Managment%20System%20Note/Week14-Database-Exercises-Summary%20.md)
+- [SQL Detaylı Notlar]
+- [14. Hafta Alıştırmalar]
 
 ### Bilgisayar Ağları (Katman Sırasına Göre)
-1. [Ağ Temelleri](Compter%20Networks%20Note/1%20networking%20notes.md)
-2. [Uygulama Katmanı](Compter%20Networks%20Note/2%20application%20layer%20notes%20.md)
-3. [Taşıma Katmanı](Compter%20Networks%20Note/3%20transport%20layer%20notes.md)
-4. [Ağ Katmanı](Compter%20Networks%20Note/4%20network%20layer%20notes.md)
-5. [Bağlantı Katmanı](Compter%20Networks%20Note/5%20link%20ayer%20notes.md)
+1. [Ağ Temelleri]
+2. [Uygulama Katmanı]
+3. [Taşıma Katmanı]
+4. [Ağ Katmanı]
+5. [Bağlantı Katmanı]
 
 ### Matematik
-- [Kalkülüs Çalışma Rehberi](calculus/Calculus%20Çalışma%20Rehberi%20.md)
+- [Kalkülüs Çalışma Rehberi]
 
 ---
 
